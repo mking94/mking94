@@ -103,10 +103,20 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-</p>
 
-----
+---
+
+<h3 align="center">Blog</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a href="https://medium.com/@maherdadi" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="FaceBook"/>
+    </a>
+  </div>
+</div>
+
+---
 
 <h3 align="center">Connect with me</h3>
 
@@ -122,7 +132,6 @@
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
 [![](https://github-readme-stats.vercel.app/api?username=mking94&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mking94)
 </div>
 
