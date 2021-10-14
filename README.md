@@ -52,6 +52,12 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+  </a>
+  <a href="https://www.json.org" target="_blank">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -91,12 +97,6 @@
   <a href="https://github.com/mking94" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  </a>
-  <a href="https://www.json.org" target="_blank">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
-  </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -113,7 +113,7 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-
+</p>
 
 <h3 align="center">Blog</h3>
 
@@ -141,7 +141,7 @@
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-[][](https://github-readme-stats.vercel.app/api?username=mking94&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mking94)
+[![](https://github-readme-stats.vercel.app/api?username=mking94&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mking94)
 </div>
 
 ----
