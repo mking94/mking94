@@ -36,6 +36,10 @@
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
+  <a href="https://www.pytgon.org target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -49,8 +53,6 @@
       alt="css3"/>
   </a>
 </p>
-
-
 
 <h3 align="center">Database</h3>
 <p align="center">
@@ -66,6 +68,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/>
   </a>
+
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -76,6 +79,7 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
+
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -86,6 +90,12 @@
   </a>
   <a href="https://github.com/mking94" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+  </a>
+  <a href="https://www.json.org" target="_blank">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
   </a>
 </p>
 
@@ -104,7 +114,6 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
 
----
 
 <h3 align="center">Blog</h3>
 
@@ -132,7 +141,7 @@
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-[![](https://github-readme-stats.vercel.app/api?username=mking94&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mking94)
+[][](https://github-readme-stats.vercel.app/api?username=mking94&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mking94)
 </div>
 
 ----
