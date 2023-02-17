@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
-
+- 📝 [Here is my Curriculum Vitae](/resume.pdf)
 ---
 
 
