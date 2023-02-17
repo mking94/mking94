@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi, I'm Maher Ben Dada<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate web developer developer and a student in Holberton School from Tunisia.</h3>
+<h3 font-size="20" align="center">A passionate web developer and a student in Holberton School from Tunisia.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
-- 🤝 I’m looking for help with **Blockchain programming**
+- 🤝 I’m looking for help with **Full stack web programming**
 
 - 👨‍💻 All of my projects are available [@mking94](github.com/mking94)
 
