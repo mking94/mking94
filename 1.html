@@ -4,13 +4,16 @@
 <title>Resume</title>
 </head>
 <body>
+<h1>Hi</h1>
+<textarea id="txt"></textarea>
 <script>
+var x = document.getElementById("txt");
 var rawFile = new XMLHttpRequest();
 rawFile.open("GET", "resume", true);
 rawFile.onreadystatechange = function ()
 {
 var allText = rawFile.responseText;
-document.write(alltext);
+x.value=alltext;
 }
 rawFile.send(null);
 </script>
