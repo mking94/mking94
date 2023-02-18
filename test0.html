@@ -13,7 +13,9 @@
     <div id="pdf-container"></div>
     <script>
         //PDFObject.embed("resume.pdf", "#pdf-container");
-	document.write(typeof(PDFObject));
+	    try {
+		    document.write(typeof(PDFObject));
+	       }catch(err){alert(err);};
     </script>
 </body>
 </html>
